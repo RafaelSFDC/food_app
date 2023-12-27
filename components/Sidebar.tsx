@@ -28,7 +28,7 @@ const Sidebar = () => {
     },
   ];
   return (
-    <nav className="bg-green-600 h-full w-[200px] flex flex-col p-5">
+    <nav className="bg-green-600 h-full w-[240px] flex flex-col p-5">
       <div className="logo flex justify-center items-center">
         <CgUserlane className="text-yellow-500 text-3xl" />
         <h3 className="text-white text-3xl">
